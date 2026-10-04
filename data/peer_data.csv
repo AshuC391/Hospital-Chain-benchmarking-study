@@ -1,0 +1,7 @@
+chain,arpob_rs_per_day,occupancy,ebitda_margin,alos_days,revenue_rs_cr,note,source
+Max Healthcare,77800,0.76,0.262,4.1,10538,"ARPOB = approx. average of 4 quarterly figures; ALOS ~4.0-4.2 by quarter","Max Q4 FY26 investor release (21 May 2026); call 29 May 2026"
+Fortis Healthcare,68767,0.68,0.222,,7773,"Hospital business only; ARPOB converted from Rs 2.51 Cr per annum / 365","Fortis Q4 FY26 press release (22 May 2026)"
+Medanta (Global Health),66550,0.62,0.242,,4509,"EBITDA incl. new Noida hospital; ALOS Q3 FY26 was 3.02 (single quarter)","Global Health Q4 FY26 results via press summary"
+KIMS,44644,0.505,0.211,3.57,3931,"Group margin diluted by new units; mature units ~29.5-30%","KIMS Q4 FY26 press release (16 May 2026)"
+Apollo Hospitals (Healthcare Services),,0.68,0.244,,12555,"Reports revenue per patient not ARPOB; occupancy is Q4 FY26 group-wide","Apollo Q4 FY26 earnings summary"
+Narayana Health (India hospitals),,,0.231,,,"Does not report occupancy; Q4 FY26 ALOS 4.4","Narayana Q4 FY26 call and release"
